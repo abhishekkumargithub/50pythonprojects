@@ -1,2 +1,2 @@
-# 60pythonprojects
-it is a sequential 60 days 60 projects from beginner to advacned level
+# 50pythonprojects
+it is a sequential 50 days 50 projects from beginner to advacned level
